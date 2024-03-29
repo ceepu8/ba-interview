@@ -22,16 +22,17 @@ Hide/Show table of contents
 
 2.  ### What are the key skills of a Business Analyst?
 
+    | Skill Category           | Skills                                                                                                                     |
+    | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+    | Fundamental skills       | Problem Solving, Communication, Critical Thinking, Active Listening, Research                                              |
+    | Technical skills         | IT skills like MS Office, Operating systems, Programming languages, Knowledge of database, SDLC knowledge,Domain knowledge |
+    | Business Analysis skills | Documentation, Decision making, Creativity, Analytical skills                                                              |
+
     **[⬆ Back to Top](#table-of-contents)**
 
 3.  ### What is the role of a Business Analyst?
-        | Skill Category                  |Skills                                                                          |
-        | ------------------------------- | ------------------------------------------------------------------------------ |
-        | Fundamental skills              |Problem Solving, Communication, Critical Thinking, Active Listening, Research   |
-        | Technical skills                |IT skills like MS Office, Operating systems, Programming languages, Knowledge of database, SDLC knowledge,Domain knowledge  |
-        | Business Analysis skills        |Documentation, Decision making, Creativity, Analytical skills    |
 
-**[⬆ Back to Top](#table-of-contents)**
+    **[⬆ Back to Top](#table-of-contents)**
 
 4.  ### As a Business Analyst, which are the documents, you are expected to prepare?
 
